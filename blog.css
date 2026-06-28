@@ -1,0 +1,18 @@
+body {text-align: center;
+    color: orange; font-weight: 600;
+font-family: 'Courier New', Courier, monospace;
+background-color: purple;
+
+}
+
+p {font-size: 20pt ;}
+
+li { font-weight: 600; color: yellow;
+    font-size: 15pt;}
+
+IMG { border-radius: 15px;
+box-shadow: black 15pt;
+}
+
+h2 {font-size: 35px;
+color: black ;}
